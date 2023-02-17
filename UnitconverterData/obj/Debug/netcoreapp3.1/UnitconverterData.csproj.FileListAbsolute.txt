@@ -1,0 +1,9 @@
+C:\Users\wilfried.konan\source\repos\UnitConverter\UnitconverterData\bin\Debug\netcoreapp3.1\UnitconverterData.deps.json
+C:\Users\wilfried.konan\source\repos\UnitConverter\UnitconverterData\bin\Debug\netcoreapp3.1\UnitconverterData.dll
+C:\Users\wilfried.konan\source\repos\UnitConverter\UnitconverterData\bin\Debug\netcoreapp3.1\UnitconverterData.pdb
+C:\Users\wilfried.konan\source\repos\UnitConverter\UnitconverterData\obj\Debug\netcoreapp3.1\UnitconverterData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilfried.konan\source\repos\UnitConverter\UnitconverterData\obj\Debug\netcoreapp3.1\UnitconverterData.AssemblyInfoInputs.cache
+C:\Users\wilfried.konan\source\repos\UnitConverter\UnitconverterData\obj\Debug\netcoreapp3.1\UnitconverterData.AssemblyInfo.cs
+C:\Users\wilfried.konan\source\repos\UnitConverter\UnitconverterData\obj\Debug\netcoreapp3.1\UnitconverterData.csproj.CoreCompileInputs.cache
+C:\Users\wilfried.konan\source\repos\UnitConverter\UnitconverterData\obj\Debug\netcoreapp3.1\UnitconverterData.dll
+C:\Users\wilfried.konan\source\repos\UnitConverter\UnitconverterData\obj\Debug\netcoreapp3.1\UnitconverterData.pdb

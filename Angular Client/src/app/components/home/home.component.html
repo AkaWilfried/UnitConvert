@@ -1,0 +1,43 @@
+<p-toast></p-toast>
+<div class="p-formgrid p-grid">
+  <div class="p-col-5 p-offset-3">
+    <div class="p-fluid p-formgrid p-grid">
+      <div class="p-field p-col-12">
+        <h4 class="p-text-center">UNIT CONVERTER</h4>
+          <label for="sens">Sens</label>
+          <p-dropdown [options]="sensList" [(ngModel)]="rateinput.sens" (onChange)="onSensChange()"></p-dropdown>
+      </div>
+      <div class="p-field p-col-12">
+          <label for="from">From</label>
+          <p-dropdown [options]="ratesItems" [(ngModel)]="rateinput.unit" (onChange)="onChangeFrom()"></p-dropdown>
+      </div>
+  </div>
+  <div class="p-fluid p-formgrid p-grid">
+    <div class="p-field p-col">
+        <label for="value">Value</label>
+        <input id="value" type="number" pInputText [(ngModel)]="rateinput.value"> 
+    </div>
+    <div class="p-field p-col">
+        <label for="text">{{ text }}</label>
+        <input id="text" type="number" [(ngModel)]="convertresult" pInputText disabled > 
+    </div>
+</div>
+<div class="p-fluid p-formgrid p-grid">
+  <div class="p-field p-col-6 p-offset-6">
+    <div class="p-fluid p-formgrid p-grid">
+      <div class="p-field p-col">
+        <!-- <button pButton pRipple type="button" label="Convert" (onClick)="onConvert()"></button>  -->
+        <p-button icon="pi pi-check" label="Convert" (onClick)='onConvert()' ></p-button>
+      </div>
+      <div class="p-field p-col">
+        <button pButton pRipple type="button" label="Clear"></button>
+      </div>
+  </div>
+  </div>
+  
+</div>
+  </div>
+</div>
+
+
+
